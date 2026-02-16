@@ -46,14 +46,14 @@
 │         └────────────────────┼────────────────────┘         │
 │                              │                              │
 │                    ┌─────────▼─────────┐                    │
-│                    │  Apache Iceberg   │                   │
-│                    │  (Table Format)   │                   │
+│                    │  Apache Iceberg   │                    │
+│                    │  (Table Format)   │                    │
 │                    └─────────┬─────────┘                    │
 │                              │                              │
 │                    ┌─────────▼─────────┐                    │
-│                    │  Google Cloud     │                   │
-│                    │  Storage (GCS)    │                  │
-│                    └───────────────────┘                   │
+│                    │  Google Cloud     │                    │
+│                    │  Storage (GCS)    │                    │
+│                    └───────────────────┘                    │
 │                                                             │
 │  ┌──────────────────────────────────────────────────────┐   │
 │  │         Vertex AI (ML & Forecasting)                 │   │
@@ -281,4 +281,5 @@ If you find CloudLakeX useful, please consider giving it a star ⭐ on GitHub!
 [Report Bug](https://github.com/theyashdhiman04/CloudLakeX/issues) · [Request Feature](https://github.com/theyashdhiman04/CloudLakeX/issues) · [Documentation](https://github.com/theyashdhiman04/CloudLakeX/wiki)
 
 </div>
+
 
